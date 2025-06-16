@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.pt
+*.ckpt
+
+# Datasets
+TESS Toronto emotional speech set data/
+facialdetection/
+audio_files/
+*.wav
+
+# VSCode
+.vscode/
+
+# Env
+env/
+venv/
+*.env
+
+# Misc
+*.log
+tempCodeRunnerFile.py
